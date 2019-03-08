@@ -122,7 +122,7 @@ and select the History tab to see the commit history.
 
 # Working with ARM Templates
 
-Go to <https://github.com/TeamCTGlobal/Workshop> and download the
+Go to <https://github.com/AndreasSobczyk/ARMandGITIntro> and download the
 repository as a ZIP file and extract it. Copy the content from the
 folder “ARM Templates” to your own repository locally, it should look
 like this:
