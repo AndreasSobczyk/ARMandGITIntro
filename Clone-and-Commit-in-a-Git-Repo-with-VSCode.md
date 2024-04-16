@@ -1,3 +1,7 @@
+## Git firste use
+![image](https://github.com/AndreasSobczyk/ARMandGITIntro/assets/14002713/60add149-14eb-4ac4-98bf-5c9f5047c588)
+
+
 ## Cloning a Git Repo with VSCode
 
 From your web browser, open the team project for your organization in Azure DevOps and select **Repos** \> **Files**.
